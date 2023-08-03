@@ -28,7 +28,7 @@ main a {
     margin-top: 5vh;
     background-color: white;
     padding: 2vh 20vw;
-    box-shadow: 10px 10px 0px 0px #000000a6;
+    box-shadow: 10px 10px 0px 0px #3B3B3B;
 }
 main a:active {
     background-color: rgb(192, 192, 192);
